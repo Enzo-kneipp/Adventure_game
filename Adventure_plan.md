@@ -13,4 +13,4 @@ Outcome: Discover a hidden key or alert the ghost to your location.
 Path 3: Investigate the Library
 
 Decision 3: Read the haunted book or push the mysterious bookshelf.
-Outcome: Learn the secret to escaping or uncover a secret passage
+Outcome: Learn the secret to escaping or uncover a secret passage(UPCOMING SOOON>>>)
